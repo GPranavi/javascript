@@ -140,3 +140,5 @@ function dele()
 calculatorgrid.style.cssText ="display:grid;justify-content: center;align-content: center;min-height: 50vh;grid-template-columns:repeat(4,80px);grid-template-rows: minmax(100px,auto) repeat(5,80px);";
 
 console.log(exp);
+
+//end of the code
