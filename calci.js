@@ -74,7 +74,7 @@ zero.setAttribute('onclick','mynumber(0)');
 add.setAttribute('onclick','myoperator("+")');
 sub.setAttribute('onclick','myoperator("-")');
 mod.setAttribute('onclick','myoperator("%")');
-dis.setAttribute('onclick','myoperator("÷")');
+dis.setAttribute('onclick','myoperator("/")');
 mul.setAttribute('onclick','myoperator("*")');
 decimal.setAttribute('onclick','myoperator(".")');
 
